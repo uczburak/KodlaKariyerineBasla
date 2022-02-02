@@ -1,0 +1,2 @@
+# KodlaKariyerineBasla
+ Projelerin birleştirildiği repo
