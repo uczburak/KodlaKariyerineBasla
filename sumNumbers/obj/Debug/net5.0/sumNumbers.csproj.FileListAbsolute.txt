@@ -1,0 +1,16 @@
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\bin\Debug\net5.0\sumNumbers.exe
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\bin\Debug\net5.0\sumNumbers.deps.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\bin\Debug\net5.0\sumNumbers.runtimeconfig.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\bin\Debug\net5.0\sumNumbers.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\bin\Debug\net5.0\sumNumbers.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\bin\Debug\net5.0\ref\sumNumbers.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\bin\Debug\net5.0\sumNumbers.pdb
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\obj\Debug\net5.0\sumNumbers.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\obj\Debug\net5.0\sumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\obj\Debug\net5.0\sumNumbers.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\obj\Debug\net5.0\sumNumbers.AssemblyInfo.cs
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\obj\Debug\net5.0\sumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\obj\Debug\net5.0\sumNumbers.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\obj\Debug\net5.0\ref\sumNumbers.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\obj\Debug\net5.0\sumNumbers.pdb
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\sumNumbers\obj\Debug\net5.0\sumNumbers.genruntimeconfig.cache
