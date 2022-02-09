@@ -1,0 +1,16 @@
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\bin\Debug\net5.0\hafta3VeriTipleri.exe
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\bin\Debug\net5.0\hafta3VeriTipleri.deps.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\bin\Debug\net5.0\hafta3VeriTipleri.runtimeconfig.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\bin\Debug\net5.0\hafta3VeriTipleri.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\bin\Debug\net5.0\hafta3VeriTipleri.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\bin\Debug\net5.0\ref\hafta3VeriTipleri.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\bin\Debug\net5.0\hafta3VeriTipleri.pdb
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\obj\Debug\net5.0\hafta3VeriTipleri.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\obj\Debug\net5.0\hafta3VeriTipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\obj\Debug\net5.0\hafta3VeriTipleri.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\obj\Debug\net5.0\hafta3VeriTipleri.AssemblyInfo.cs
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\obj\Debug\net5.0\hafta3VeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\obj\Debug\net5.0\hafta3VeriTipleri.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\obj\Debug\net5.0\ref\hafta3VeriTipleri.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\obj\Debug\net5.0\hafta3VeriTipleri.pdb
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\hafta3VeriTipleri\obj\Debug\net5.0\hafta3VeriTipleri.genruntimeconfig.cache
