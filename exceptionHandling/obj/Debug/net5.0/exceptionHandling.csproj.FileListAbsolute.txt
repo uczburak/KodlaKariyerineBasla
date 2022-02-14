@@ -1,0 +1,16 @@
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\bin\Debug\net5.0\exceptionHandling.exe
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\bin\Debug\net5.0\exceptionHandling.deps.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\bin\Debug\net5.0\exceptionHandling.runtimeconfig.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\bin\Debug\net5.0\exceptionHandling.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\bin\Debug\net5.0\exceptionHandling.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\bin\Debug\net5.0\ref\exceptionHandling.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\bin\Debug\net5.0\exceptionHandling.pdb
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\obj\Debug\net5.0\exceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\obj\Debug\net5.0\exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\obj\Debug\net5.0\exceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\obj\Debug\net5.0\exceptionHandling.AssemblyInfo.cs
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\obj\Debug\net5.0\exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\obj\Debug\net5.0\exceptionHandling.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\obj\Debug\net5.0\ref\exceptionHandling.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\obj\Debug\net5.0\exceptionHandling.pdb
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\exceptionHandling\obj\Debug\net5.0\exceptionHandling.genruntimeconfig.cache
