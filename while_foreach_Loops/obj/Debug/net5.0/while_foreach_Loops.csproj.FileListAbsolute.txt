@@ -1,0 +1,16 @@
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\bin\Debug\net5.0\while_foreach_Loops.exe
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\bin\Debug\net5.0\while_foreach_Loops.deps.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\bin\Debug\net5.0\while_foreach_Loops.runtimeconfig.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\bin\Debug\net5.0\while_foreach_Loops.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\bin\Debug\net5.0\while_foreach_Loops.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\bin\Debug\net5.0\ref\while_foreach_Loops.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\bin\Debug\net5.0\while_foreach_Loops.pdb
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\obj\Debug\net5.0\while_foreach_Loops.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\obj\Debug\net5.0\while_foreach_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\obj\Debug\net5.0\while_foreach_Loops.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\obj\Debug\net5.0\while_foreach_Loops.AssemblyInfo.cs
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\obj\Debug\net5.0\while_foreach_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\obj\Debug\net5.0\while_foreach_Loops.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\obj\Debug\net5.0\ref\while_foreach_Loops.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\obj\Debug\net5.0\while_foreach_Loops.pdb
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\while_foreach_Loops\obj\Debug\net5.0\while_foreach_Loops.genruntimeconfig.cache
