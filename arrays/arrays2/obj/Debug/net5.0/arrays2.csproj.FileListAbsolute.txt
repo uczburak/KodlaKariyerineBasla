@@ -1,0 +1,16 @@
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\bin\Debug\net5.0\arrays2.exe
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\bin\Debug\net5.0\arrays2.deps.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\bin\Debug\net5.0\arrays2.runtimeconfig.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\bin\Debug\net5.0\arrays2.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\bin\Debug\net5.0\arrays2.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\bin\Debug\net5.0\ref\arrays2.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\bin\Debug\net5.0\arrays2.pdb
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\obj\Debug\net5.0\arrays2.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\obj\Debug\net5.0\arrays2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\obj\Debug\net5.0\arrays2.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\obj\Debug\net5.0\arrays2.AssemblyInfo.cs
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\obj\Debug\net5.0\arrays2.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\obj\Debug\net5.0\arrays2.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\obj\Debug\net5.0\ref\arrays2.dll
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\obj\Debug\net5.0\arrays2.pdb
+C:\Users\Burak\Desktop\KodlaKariyerineBasla\arrays\arrays2\obj\Debug\net5.0\arrays2.genruntimeconfig.cache
